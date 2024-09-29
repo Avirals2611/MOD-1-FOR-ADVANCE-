@@ -42,6 +42,4 @@ Step 3 : Deploy the contract
 Test the deployed contracts for the various methods like, mint, burn and balanceOf .
 
 ### Author
-Utkarsh Vinayak
-
-Chandigarh University
+AVIRAL SINGH
